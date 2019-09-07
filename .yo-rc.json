@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ey.test"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "test5",
+    "packageName": "com.ey.test",
+    "packageFolder": "com/ey/test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTNlOTkwMWUwZTk4MmZjYWNhMTY3Mzk0YTAyYmI5MzdlMjJhZGYxNWM1MDZmYWUzNTViOWE4MjA3MzcxOTAxZGJhMDEzNmYyZDUwOWE4YmYyNzgxNzcwZjE1YTE2NzVlMjQ3NDExZTg1OGU1YzBkYzBmMjE5ZDgzNWU0NzI0YTY=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
